@@ -4,25 +4,25 @@
       "id": "1",
       "src": "./img/product-chain-1.png",
       "title": "Front-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "I create websites and applications using web languages such as React.Js, Tailwind, Typescript and Next.Js that allow users to access and interact with the site or app"
     },
     {
       "id": "2",
       "src": "./img/tag-1.png",
       "title": "Back-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "build and maintain the mechanisms that process data and perform actions on"
     },
     {
       "id": "3",
       "src": "./img/feather-pen-2.png",
-      "title": "UI & UX Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "title": "Front-End Instructor",
+      "description": "I give lectures regarding programming topics, tech supports for the students and code reviews for the students' project"
     },
     {
       "id": "4",
       "src": "./img/feather-pen-1.png",
       "title": "Webflow Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "I am a web designer who uses Webflow to design and make web pages"
     }
   ],
   "portfolio": [
