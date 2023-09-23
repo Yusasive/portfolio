@@ -16,9 +16,10 @@ export default function AboutMe() {
            front-end JavaScript library.
           </p>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-            recusandae?
+          I am responsible for developing new 
+          user-facing features, determining the structure and design 
+          of web pages, building reusable codes, optimizing page loading 
+          times, and using a variety of markup languages to create the web pages.
           </p>
         </div>
       </div>

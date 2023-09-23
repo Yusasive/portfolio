@@ -62,19 +62,6 @@ function Footer() {
                 Contact
               </Link>
             </li>
-            <li>
-              <Link
-                activeClass="navbar--active-content"
-                spy={true}
-                smooth={true}
-                offset={-70}
-                duration={500}
-                to="testimonial"
-                className="text-md"
-              >
-                Testimonials
-              </Link>
-            </li>
           </ul>
         </div>
         <div className="footer--social--icon">
@@ -125,7 +112,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="https://www.twitter.com/"
+                href="https://twitter.com/TemidayoYuusuf"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -146,7 +133,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="https://www.linkedin.com/"
+                href="https://www.linkedin.com/in/yuusuf-abdullahi-temidayo-yusasive/"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -172,7 +159,7 @@ function Footer() {
       </div>
       <hr className="divider" />
       <div className="footer--content--container">
-        <p className="footer--content">Made with 💖 by John</p>
+        <p className="footer--content">Made by Yusasive💖</p>
         <div className="footer--social--icon">
           <ul>
             <li>
