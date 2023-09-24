@@ -19,7 +19,7 @@ p {
 :root {
   --primary: #5e3bee;
   --heading-color: #282938;
-  --bg-shade: #f5fcff;
+  --bg-shade: #f5eaf1;
   --github: #e62872;
   --darkblue: #1c1e53;
   --black: #000000;
@@ -548,10 +548,7 @@ input[type="checkbox"] {
   background: rgba(40, 41, 56, 0.55);
 }
 .footer--content--container {
-  display: flex;
-  justify-content: space-between;
   align-items: center;
-  align-self: stretch;
 }
 .footer--content {
   color: var(--black);

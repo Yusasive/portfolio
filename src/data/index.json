@@ -10,7 +10,7 @@
       "id": "2",
       "src": "./img/tag-1.png",
       "title": "Back-End",
-      "description": "build and maintain the mechanisms that process data and perform actions on"
+      "description": "I am responsible for creating and maintaining the server, which handles requests from the client-side (front-end) of the application. "
     },
     {
       "id": "3",
@@ -22,7 +22,7 @@
       "id": "4",
       "src": "./img/feather-pen-1.png",
       "title": "Webflow Development",
-      "description": "I am a web designer who uses Webflow to design and make web pages"
+      "description": "I ensure that websites are responsive and function well on various devices and screen sizes is crucial for mobile, tablet, and desktop views."
     }
   ],
   "portfolio": [
@@ -30,21 +30,21 @@
       "id": "1",
       "src": "./img/placeholder-image.png",
       "title": "Rumoney",
-      "description": "An African learning provider and marketplace for marketing talents",
+      "description": "An African learning provider and marketplace for marketing talents.",
       "link": "View In Github"
     },
     {
       "id": "2",
       "src": "./img/placeholder-image-1.png",
       "title": "Zenoxis",
-      "description": "Zenoxis is a website built with React.Js for minting NFT",
+      "description": "Zenoxis is a website built with React.Js for minting NFT.",
       "link": "View In Github"
     },
     {
       "id": "3",
       "src": "./img/placeholder-image-2.png",
       "title": "Rumoney Blog",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementume",
+      "description": "A blog site created for Rumoney site, integrating hygraph CMS API.",
       "link": "View In Github"
     }
   ]
