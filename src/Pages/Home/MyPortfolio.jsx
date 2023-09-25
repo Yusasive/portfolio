@@ -43,6 +43,8 @@ export default function MyPortfolio() {
                 <h3 className="portfolio--section--title">{item.title}</h3>
                 <p className="text-md">{item.description}</p>
               </div>
+              <a href="https://github.com/Yusasive" target="_blank"
+         rel="noreferrer">
               <p className="text-sm portfolio--link">
                 {item.link}
                 <svg
@@ -61,6 +63,7 @@ export default function MyPortfolio() {
                   />
                 </svg>
               </p>
+              </a>
             </div>
           </div>
         ))}
